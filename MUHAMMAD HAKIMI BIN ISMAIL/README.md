@@ -1,7 +1,6 @@
-CHAPTER 1
+##CHAPTER 1
 
-INTRODUCTION
-
+##INTRODUCTION
 
 1.1	Background of Study
 
@@ -10,21 +9,14 @@ City is an area where large numbers of residents of all ages live together. City
 1.2	Problem Statement
 
 1.2.1	Whereabouts not known to other people make it hard to trace if missing
-
-ddwdwdwdwd
-
 1.2.2	Panic during emergencies make it difficult to effectively provide information
-
-When in panic, our brain cannot think straight and make it hard to give full information about the situation. The panic will increase our adrenaline and turn our body into fight-or-flight response. We will focus only on the situation rather than other essential things such as location and specific details. The authorities cannot understand the situation and they may come underprepared. The authorities also may not know our exact location, thus, make it hard to find us. Other than that
-
 1.2.3	Lack of awareness of dangerous spot in the city can lead to safety risks
-dwdwdwdwdw
 
 1.3	Objectives
 
-a)	To design and develop Waspada: City Track and Locate Safety App using Geolocation for citizens in Jasin
+a)To design and develop Waspada: City Track and Locate Safety App using Geolocation for citizens in Jasin
 
-b)	To evaluate the effectiveness of Waspada: City Track and Locate Safety App using Geolocation using User Acceptance Testing
+b)To evaluate the effectiveness of Waspada: City Track and Locate Safety App using Geolocation using User Acceptance Testing
 
 1.4	Project scope
 
