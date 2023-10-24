@@ -1,24 +1,24 @@
-##CHAPTER 1
+# CHAPTER 1
 
-##INTRODUCTION
+## INTRODUCTION
 
-1.1	Background of Study
+### Background of Study
 
 City is an area where large numbers of residents of all ages live together. City provides many job opportunity and many houses for people around the country. According to Lampard (2023), city is defined by centre of population which is larger in size and importance compared to town or village. It is also permanent and highly ordered.
 
-1.2	Problem Statement
+### Problem Statement
 
 1.2.1	Whereabouts not known to other people make it hard to trace if missing
 1.2.2	Panic during emergencies make it difficult to effectively provide information
 1.2.3	Lack of awareness of dangerous spot in the city can lead to safety risks
 
-1.3	Objectives
+### Objectives
 
 a)To design and develop Waspada: City Track and Locate Safety App using Geolocation for citizens in Jasin
 
 b)To evaluate the effectiveness of Waspada: City Track and Locate Safety App using Geolocation using User Acceptance Testing
 
-1.4	Project scope
+### Project scope
 
 1.4.1	Location
 
@@ -48,7 +48,7 @@ Other than that, the app has built-in map that shows authorities nearby, for exa
 
 Lastly, the user will receive push notification for weather and incident alert. Whenever the forecast for the city is bad, such as thunderstom, the app will give notification. Moreover, if the user is near 5 kilometer to a hotspot area, the app will give warning so that the user is aware. 
 
-1.5	Project Significance
+### Project Significance
 Benefits(maybe from problem statement)
 
-1.6	Summary
+### Summary
