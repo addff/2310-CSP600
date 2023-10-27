@@ -5,7 +5,8 @@
 1. The current system for tadika ............... was not efficient and not convienient for teachers and also parents
 
 ### Evidence
-
+Basic fact either observation, questionaire, interview, article
+1.
 
 ### Problem Identification
 1. Current system often result in inefficient miscommunication and lack of real time communication
