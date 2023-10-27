@@ -8,9 +8,9 @@ Due to our hectic schedules and the growing emphasis on maintaining healthy life
 
 # 1.3	Project Objectives 
 The objectives of this project are as follows :
-a)	To design a personalized recipe and meal planning assistant using web scraping and collaborative filtering that provide a list of ranked food items for users to meet their personalized needs.
-b)	To develop a mobile application for personalized recipe and meal planning assistant using flutter to enhance accessibility and convenience by allowing users to plan meals and access recipes anytime and anywhere.
-c)	To test functionality of the personalized recipe and meal planning assistant using functional testing for effectiveness of the system.
+<li>To design a personalized recipe and meal planning assistant using web scraping and collaborative filtering that provide a list of ranked food items for users to meet their personalized needs.
+<li>To develop a mobile application for personalized recipe and meal planning assistant using flutter to enhance accessibility and convenience by allowing users to plan meals and access recipes anytime and anywhere.
+<li>To test functionality of the personalized recipe and meal planning assistant using functional testing for effectiveness of the system.
 
 # 1.5	Significance	
 The Personalized Recipe and Meal Planning Assistant has significance because of its potential to improve numerous aspects of users' life and solve broader issues that affecting society. It promotes health and well-being life by encouraging healthier eating habits, contributes to sustainability by reducing food waste, encourages culinary exploration, saves time and money and provides convenience.	
