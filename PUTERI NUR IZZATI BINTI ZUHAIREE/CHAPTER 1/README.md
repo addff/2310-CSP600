@@ -22,8 +22,8 @@ The Personalized Recipe and Meal Planning Assistant has significance because of 
 
 1.5.2	Reduce Food Waste
 <li>Promoting eco-friendly culinary practices, utilizing home-grown ingredients, and aligning with global efforts to minimize environmental impact and ethical food consumption.
-•	Help users to make use the most of ingredients they already have at home, it will lead to cost savings for individuals and families, aligning with economic interests.
-•	It is consistent with broader global initiatives to reduce the environmental impact of food waste.
+<li>Help users to make use the most of ingredients they already have at home, it will lead to cost savings for individuals and families, aligning with economic interests.
+<li>It is consistent with broader global initiatives to reduce the environmental impact of food waste.
 
 1.5.3	Culinary Exploration
 •	Exposing users to a variety of cuisines, ingredients, and cooking processes.
