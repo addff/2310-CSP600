@@ -8,7 +8,7 @@
 - Developing mobile applications for mental health patients diagnosed with or who have symptoms of depression, anxiety, or Post-traumatic stress disorder (PTSD).
 - Mental Health refers to a person's emotional, psychological, and social well-being. It includes their ability to control emotions, think logically, maintain healthy social relationships, and cope with life's problems.
 - Mobile apps are alternatives that help increase engagement, facilitate therapy, and retain gains when treatment is over to provide mental health services that are more inexpensive and accessible (Noronha,2022).
--This application will use geolocation services to identify the geographic location of the nearest clinic and counseling center.
+- This application will use geolocation services to identify the geographic location of the nearest clinic and counseling center.
 
 ### 2.0 Problem Statement
 1. Problem Identifications: Obstacles that hinder individuals from seeking help
