@@ -16,7 +16,7 @@ c)	To test functionality of the personalized recipe and meal planning assistant 
 The Personalized Recipe and Meal Planning Assistant has significance because of its potential to improve numerous aspects of users' life and solve broader issues that affecting society. It promotes health and well-being life by encouraging healthier eating habits, contributes to sustainability by reducing food waste, encourages culinary exploration, saves time and money and provides convenience.	
 
 1.5.1	Healthier Eating Habits
-•	Personalized recipe recommendations tailored to individual dietary preferences and restrictions, it will encourage healthier eating practices.
+<li>Personalized recipe recommendations tailored to individual dietary preferences and restrictions, it will encourage healthier eating practices.</li>li>
 •	Prevent and manage various diet-related diseases, such as diabetes, heart disease, and obesity.
 •	Assists users in achieving a balanced and nutritionally adequate diet, ensuring they receive essential vitamins, minerals, and nutrients required for optimal health.
 
