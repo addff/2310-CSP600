@@ -15,4 +15,7 @@ Basic fact either observation, questionaire, interview, article
 3. Accessibility of student data and information is not secure and all record not well organized
 
 ### Solution
-1. B
+1. Teacher can update everything about student data and information through the app
+2. Parents can pay the fees using online payment through the app
+3. All the kindergarten data will sync and secure in this app
+4. Parents and teacher can have real-time communication through the app
