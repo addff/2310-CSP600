@@ -18,7 +18,7 @@ The Personalized Recipe and Meal Planning Assistant has significance because of 
 1.5.1	Healthier Eating Habits
 <li>Personalized recipe recommendations tailored to individual dietary preferences and restrictions, it will encourage healthier eating practices.</li>
 <li>Prevent and manage various diet-related diseases, such as diabetes, heart disease, and obesity.</li>
-<li>Assists users in achieving a balanced and nutritionally adequate diet, ensuring they receive essential vitamins, minerals, and nutrients required for optimal health.</li>
+<li>Assists users in achieving a balanced and nutritionally adequate diet, ensuring they receive essential vitamins, minerals, and nutrients required for optimal health.
 
 1.5.2	Reduce Food Waste
 <li>Promoting eco-friendly culinary practices, utilizing home-grown ingredients, and aligning with global efforts to minimize environmental impact and ethical food consumption.
