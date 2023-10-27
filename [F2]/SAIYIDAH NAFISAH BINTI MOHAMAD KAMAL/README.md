@@ -15,4 +15,4 @@ Basic fact either observation, questionaire, interview, article
 3. Accessibility of student data and information is not secure and all record not well organized
 
 ### Solution
-
+1. B
