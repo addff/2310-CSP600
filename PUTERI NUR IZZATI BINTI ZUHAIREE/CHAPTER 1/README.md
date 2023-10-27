@@ -26,6 +26,6 @@ The Personalized Recipe and Meal Planning Assistant has significance because of 
 <li>It is consistent with broader global initiatives to reduce the environmental impact of food waste.
 
 1.5.3	Culinary Exploration
-•	Exposing users to a variety of cuisines, ingredients, and cooking processes.
-•	Enrich users dining experiences but also broadens their culinary horizons.
-•	Encouraging users to explore and experiment, ultimately building a deeper appreciation for the richness and diversity of global cuisines.
+<li>Exposing users to a variety of cuisines, ingredients, and cooking processes.
+<li>Enrich users dining experiences but also broadens their culinary horizons.
+<li>Encouraging users to explore and experiment, ultimately building a deeper appreciation for the richness and diversity of global cuisines.
