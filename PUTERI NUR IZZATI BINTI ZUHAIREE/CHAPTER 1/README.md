@@ -1,3 +1,1 @@
-# CHAPTER 1
-
-# OBJECTIVE
+Title : Peronalized Recipe and Meal Planning Assistant
