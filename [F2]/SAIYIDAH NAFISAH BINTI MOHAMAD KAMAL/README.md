@@ -2,7 +2,7 @@
 ## Project Statement
 ## Title: PreschoolPulse:Mobile Application for Kindergarten Management using cloud-based services
 ### Issue
-1. The current system for tadika ............... was not efficient and not convienient for teachers and also parents
+1. The current system for kindergarten ............... was not efficient and not convienient for teachers and also parents
 
 ### Evidence
 Basic fact either observation, questionaire, interview, article
