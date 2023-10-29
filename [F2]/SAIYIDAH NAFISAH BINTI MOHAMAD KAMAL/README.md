@@ -8,11 +8,12 @@
 Basic fact either observation, questionaire, interview, article
 
 1. According to the ................................., the
-2. 
+2. Difficulties of interaction between all participant of educational process (Kassymova et al., 2018)
+3. 
 
 ### Problem Identification
 1. Current system often result in inefficient miscommunication and lack of real time communication
-2. No centralize system for preschool management system
+2. Interaction challenges between all participants in the educational process
 3. Accessibility of student data and information is not secure and all record not well organized
 
 ### Solution
