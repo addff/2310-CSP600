@@ -5,6 +5,9 @@ write your issue here
 
 ### Evidence
 Basic fact either observation, questionaire, interview, article
+![Screenshot (285)](https://github.com/addff/2310-CSP600/assets/139905310/eb759527-39e3-4eb6-a24b-f9e45e7d3c89)
+
+
 
 ### Problem Identification
 1. Lack of a centralized platform to discover local artisans.
