@@ -3,7 +3,7 @@
 ## Title: PreschoolPulse:Mobile Application for Kindergarten Management using cloud-based services
 
 ### Issue
-1. The current management system for kindergarten at Anje International Quranic Preschool was not efficient and not convienient for teachers and also parents.
+1. Based on the interview with the stakeholder,the current management system for kindergarten at Anje International Quranic Preschool was not efficient and not convienient for teachers and also parents.
 
 ### Evidence
 Basic fact either observation, questionaire, interview, article
