@@ -1,11 +1,9 @@
 # Chapter 1 Introduction
 ## Project Statement
 ### Issue
-write your issue here
-
+Currently, there is no existing mobile application for wedding organizers that allows users to browse all available options in one place, making it difficult for them to identify wedding organizers located in their specific area.
 
 ### Evidence
-Basic fact either observation, questionaire, interview, article
 <img src="https://github.com/mayrahann/CSP600/assets/139207925/6627f096-9760-476e-8674-078f4b0980f4" width="500" height="300">
 
 1. Regarding the difficulty of comparing wedding planners and their services, almost three-quarters of those responding to the survey (73.3%) agreed with the statement. The realization that not everyone has highly developed abilities to conduct research over the internet has probably had an impact on this agreement. It indicates that some people might find it challenging to efficiently navigate different online platforms in order to discover more about various wedding organizers, which would make it difficult for them to make wise comparisons.
@@ -18,15 +16,11 @@ Basic fact either observation, questionaire, interview, article
 
 
 ### Problem Identification
-describe briefly problem matter
-
 1. Difficult to compare different wedding organizers and their services.
 2. The difficulty in discerning dates that have already been reserved by other clients.
 3. Experiencing difficulties in contacting wedding organizers through existing online platform.
 
 ### Solution
-your final product and importance
-
 1. Dream Wedding mobile application enables different wedding organizers to list their services, packages, and prices based on the client's location.
 2. Implementing a filtering and sorting system, users can streamline their search by location, services, price, and ratings.
 3. Create an availability calendar for each wedding organizer, which shows booked and available dates.
