@@ -1,7 +1,7 @@
 # Chapter 1 Introduction
 ## Project Statement
 ### Issue
-Currently, there is no existing mobile application for wedding organizers that allows users to browse all available options in one place, making it difficult for the users to identify wedding organizers located in their specific area.
+Nowadays, wedding organizers promote their services on a variety of online platforms, including Facebook, Instagram, and TikTok because there is no existing mobile application for wedding organizers that allows users to browse all available options in one place. Therefore, clients find it challenging to locate wedding organizers in their specific area.
 
 ### Evidence
 <img src="https://github.com/mayrahann/CSP600/assets/139207925/6627f096-9760-476e-8674-078f4b0980f4" width="500" height="300">
