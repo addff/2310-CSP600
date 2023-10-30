@@ -27,7 +27,7 @@ describe briefly problem matter
 ### Solution
 your final product and importance
 
-1. Develop a comprehensive mobile application where different wedding organizers can list their services, packages, and prices based on their location.
+1. Dream Wedding mobile application enables different wedding organizers to list their services, packages, and prices based on the client's location.
 2. Implementing a filtering and sorting system, users can streamline their search by location, services, price, and ratings.
 3. Create an availability calendar for each wedding organizer, which shows booked and available dates.
 4. Implement a robust chat/messaging system to facilitate direct communication between clients and wedding organizers.
