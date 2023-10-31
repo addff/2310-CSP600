@@ -8,37 +8,43 @@ City is an area where large numbers of residents of all ages live together. City
 
 ### Problem Statement
 
-- Whereabouts not known to other people make it hard to trace if missing
-- Panic during emergencies make it difficult to effectively provide information
-- Lack of awareness of dangerous spot in the city can lead to safety risks
+- Current safety applications lack of tools to produce admissible evidence for police cases.
+- No easily accessible panic button in exisiting safety applications.
+- Existing safety applications do not alert users about dangerous spots in the city.
 
 ### Objectives
 
-- To design and develop Waspada: City Track and Locate Safety App using Geolocation for citizens in Jasin
+- To design and develop Waspada: City Track and Locate Safety App using geofencing and geotagging.
 
-- To evaluate the effectiveness of Waspada: City Track and Locate Safety App using Geolocation using User Acceptance Testing
+- To evaluate the accuracy of geofencing and geotagging on Waspada: City Track and Locate Safety App using geolocation testing tool.
 
 ### Project scope
 
 1. Location
-   * The Waspada: City Track and Locate Safety app will be used in Malacca City which is the capital city of Malacca. The capital city covers 307.86 square kilometers consists of famous city spots such as A Famosa and Dataran Pahlawan. These area with a lot of tourist can be dangerous especially during the night. Waspada: City Track and Locate Safety app will be most helpful when anything bad happen.
+   * The Waspada: City Track and Locate Safety app will be used in Malacca City which is the capital city of Malacca. The capital city covers 307.86 square kilometers and consists of famous city spots such as A Famosa and Dataran Pahlawan. These areas with a lot of tourists can be dangerous especially during the night. Waspada: City Track and Locate Safety app will be most helpful when unwanted things happen.
 
 2.	Users
     * Waspada: City Track and Locate Safety app will benefits anyone inside Malacca City. User can add trusted family and friends to Circles. Circles is a group that user can share real-time location. Only Circles members are allowed to see current location and location history.
 
 3. Technology
-   * Waspada: City Track and Locate Safety App is using geolocation to track user. Push notifications to alert user of any incidents or weather change. Mapping services to show user location and any hotspot location. Authentication to make sure only selected people can access user location.
+   * Waspada: City Track and Locate Safety App is using geofencing, geolocation and geotagging to track user. Geofencing services to alert user of any incidents or weather change nearby. Geolocation services to track user’s location in real-time. Geotagging to attach geographic coordinates to photos and videos.
 
 4. Mode
-   * Waspada: City Track and Locate Safety app is online but can be used offline with limited functionality.
+   * Waspada: City Track and Locate Safety app is online but can be used offline with limited functionality which is offline maps and panic button.
 
 5. Functionality
-   * One of the functionality of Waspada: City Track and Locate Safety app is to track and locate user. User may add any trusted family or friends into Circles, which then user can allow to track and locate. Only Circles members can see real-time location of the user on the map. The app also will check in the location for certain time set up by user. For example, for every 10 minutes, the app will check in and show the location on location history.
-   * Secondly, emergency call. When activated, the app will alert Circles members and nearby user that the owner is in danger. Loud sound will also be played to attract attention.
-   * Next, we can report area with many cases such as robbery, pickpocket and road obstruction. The reported areas will show up as hotspot area if enough report received. Reported areas will appear on map to alert user.
-   * Other than that, the app has built-in map that shows authorities nearby, for example police station, in case of emergency. It also shows hotspot area nearby. Hotspot area is an area where many cases were reported by user. For instance, robbery. Circles members location will also be shown and user can get direction to go to them.
-   * Lastly, the user will receive push notification for weather and incident alert. Whenever the forecast for the city is bad, such as thunderstom, the app will give notification. Moreover, if the user is near 5 kilometer to a hotspot area, the app will give warning so that the user is aware. 
+   * Track and Locate
+   * Panic Button
+   * Community Report
+   * Maps with alert
+   * Push notification
 
 ### Project Significance
 
+* Automatic video recording with anto-tempering implementation during emergency
+* Essential information will be send to trusted person and user nearby when easily accessible ‘Panic Button’ activated
+* Maps shows real-time potentially dangerous cases with alert using geofencing
+
 ### Summary
+
+Waspada: City Track and Locate Safety App aims to enhance city safety by using geofencing, geolocation, and geotagging technologies. Waspada application will provides improvements from existing app features according to the standard of current technology. 
