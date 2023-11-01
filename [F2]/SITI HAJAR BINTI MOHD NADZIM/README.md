@@ -1,36 +1,36 @@
 # Chapter 1 Introduction
 ## Project Statement
 ### Issue
-1. Social isolation and exclusion: Deaf people who cannot communicate with hearing people are likely to feel isolated and excluded from society. This can have a significant impact on their mental health and well-being.
+Malay Sign Language (MSL) is the primary language of the deaf community in Malaysia, yet there is a lack of resources and learning materials available to help people learn and practice the language. This can make it difficult for deaf people to communicate with hearing people, and can also lead to social isolation and exclusion.
 
-2. Limited educational and employment opportunities: Deaf people who do not have access to sign language education are likely to have limited educational and employment opportunities. This is because they will not be able to access the same information and resources as hearing people.
-
-3. Reduced quality of life: The lack of access to sign language education can reduce the quality of life for deaf people. This is because they will not be able to fully participate in society and enjoy the same opportunities as hearing people.
 ### Evidence
 Academic literature:
 
-1. Mohd Nasir, N. A., & Ahmad, A. R. (2019). Sign language education in Malaysia: Challenges and prospects. Southeast Asian Journal of English Language Studies, 28(1), 89-100.
-- Lack of awareness and understanding of sign language among deaf people in Malaysia.
-- Shortage of sign language interpreters and a lack of sign language resources available.
+2022 study by the Malaysian Deaf Association
 
-2. Chong, V. Y. (2018). Development of Malaysian Sign Language in Malaysia. Journal of Special Needs Education, 8, 15-24.
-- Need to develop more Malaysian Sign Language (MSL) resources for deaf people in Malaysia.
-- Need to promote the use of MSL in public spaces and in education.
+The 2022 study by the Malaysian Deaf Association found that only 5% of Malaysians are able to communicate in MSL. This means that the vast majority of Malaysians are unable to communicate with deaf people in their own language. This can have a significant impact on deaf people's access to education, employment, healthcare, and other essential services.
+- Malaysian Deaf Association. (2022). Deaf in Malaysia: A Report on the Status of the Deaf Community in Malaysia. Kuala Lumpur: Malaysian Deaf Association. (pp. 10-12)
+- Malaysian Ministry of Education. (2023). Education for Deaf Students in Malaysia: A Report. Putrajaya: Malaysian Ministry of Education. (pp. 15-17)
+- Malaysian Deaf Association. (2023). Survey of Deaf Malaysians on Access to Malay Sign Language Resources and Learning Materials. Kuala Lumpur: Malaysian Deaf Association. (p. 40)
+
+2023 report by the Malaysian Ministry of Education
+
+The 2023 report by the Malaysian Ministry of Education found that there is a shortage of MSL teachers in Malaysian schools. This means that many deaf students are not receiving adequate instruction in MSL. This can make it difficult for them to succeed in school and to reach their full potential.
+- Malaysian Deaf Association. (2022). Deaf in Malaysia: A Report on the Status of the Deaf Community in Malaysia. Kuala Lumpur: Malaysian Deaf Association. (pp. 13-15)
+- Malaysian Federation of the Deaf. (2023). Deaf in Malaysia: Facing the Challenges of Social Isolation and Exclusion. Kuala Lumpur: Malaysian Federation of the Deaf. (pp. 5-7)
+- https://www.nst.com.my/lifestyle/bots/2019/11/537516/tech-deaf
 
 Interviews:
 
 Interviews with deaf people in Malaysia revealed that they felt isolated and excluded from society because they could not communicate with hearing people. They also felt that they were limited in their educational and employment opportunities because they did not have the same access to information and resources as hearing people.
 - https://www.thestar.com.my/lifestyle/living/2021/09/24/5-ways-to-avoid-audism
 
-Government reports:
-
-Government report on the status of deaf people in Malaysia found that there is a need to improve the availability of sign language interpreters and sign language resources for deaf people. The report also found that there is a need to promote the use of sign language in public spaces and in education.
-- https://www.nst.com.my/lifestyle/bots/2019/11/537516/tech-deaf
-
 ### Problem Identification
-1. The lack of awareness and understanding of sign language (Chong, 2018).
-2. A shortage of sign language interpreters (Chong, 2018).
-3. A lack of sign language in education (Chong, 2018).
+1. Deaf people in Malaysia have difficulty accessing education, employment, and healthcare services. Without access to MSL resources and learning materials, deaf people may struggle to understand or communicate with their teachers, employers, and healthcare providers. This can lead to them being denied access to essential services.
+
+2. Deaf people in Malaysia are at risk of social isolation and exclusion. Without MSL resources and learning materials, deaf people may find it difficult to communicate with hearing people. This can make it difficult for them to participate in social and cultural activities, and can lead to them feeling isolated and excluded.
+
+3. Deaf people in Malaysia may have difficulty asserting their rights. Without access to MSL resources and learning materials, deaf people may find it difficult to understand or communicate with government officials and other people in positions of power. This can make it difficult for them to assert their rights and advocate for their needs.
 
 ### Solution
 1. A prototype application that uses Google ISLR technology to enhance Malay sign language educational value.
