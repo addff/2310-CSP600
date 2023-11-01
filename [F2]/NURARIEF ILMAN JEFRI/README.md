@@ -4,7 +4,9 @@ Food Waste And Food Insecurity In Malaysia
 Evidence
 
 -More than 50% of Malaysian wasted food daily.(phooi,azman,ismail,shah,koay,2022)
+
 -The FAO projected that 687.8 million people (8.9%) or one in every ten people in the world are undernourished, while 750 million people (9.7%) worldwide were experiencing severe food insecurity. 
+
 -Many businesses and individuals have extra food to give, but there's no practical way to connect with them immediately. This leads to food waste and ongoing hunger issues
 
 Problem Identification
