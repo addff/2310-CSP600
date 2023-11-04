@@ -8,7 +8,7 @@
 ### Evidence
 Basic fact either observation, questionaire, interview, article
 
-1. According to (the stakeholder,2023), the current management for their kindergarten is not effective because have a bit of deficiency of the current system.
+1. According to (Anje International Quranic Preschool,2023), obtaining the necessary information by manual administration may take a while, particularly if the data is physically dispersed over several files. This may impair the ability to make timely decisions.
 2. Difficulties to communicate between all participant in educational process is the one of the problem of educational inclusive instituion in system of network interaction. (Kassymova et al., 2018)
 3. Ibrahim and Mohamed (2019) cite the fact that the majority of kindergartens still manage their data and information manually. Every piece of data or information is frequently recorded on paper and stored in a file. This approach has caused the management a great deal of issues, particularly when all the information is needed quickly.
 
