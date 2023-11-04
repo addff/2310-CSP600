@@ -6,9 +6,15 @@ write your issue here
 
 ### Evidence
 Basic facts either observation, questionnaire, interview, or article
-1. Mental health problems become challenging when individuals refuse treatment (Saboo, 2021)
-2. The patient forgets appointments and neglects to take medication as recommended(Saboo, 2021)
-3. Necessitate costly and time-consuming procedures (Yang, 2021).
+1. Mental health problems become challenging when individuals refuse treatment (Saboo, 2021). According to a survey, 30.3% of people with mental health problems never seek professional help. This is a major concern because untreated mental health problems can worsen and lead to serious consequences. 
+![image](https://github.com/addff/2310-CSP600/assets/92868643/00a8e1f9-bc3a-43f9-95d6-4585e230460c)
+
+2. The patient forgets appointments and neglects to take medication as recommended(Saboo, 2021). Based on the survey conducted, 97% of the 33 respondents forgot their appointment. This is a significant percentage, and it suggests that there is a need for better systems for reminding people about their appointments.
+![image](https://github.com/addff/2310-CSP600/assets/92868643/54f03aef-548b-493c-a6e6-9c2919316d2a)
+
+3. Require expensive procedures. According to the survey, financial constraints are the most common challenge in managing mental health or accessing mental health services, with 20% of respondents reporting this as their biggest challenge. 
+![image](https://github.com/addff/2310-CSP600/assets/92868643/c32d5f28-d895-4bde-8934-9a1ac8aa3643)
+
 
 ### Problem Identification
 Describe briefly the problem matter
