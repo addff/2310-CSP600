@@ -13,13 +13,11 @@ Basic fact either observation, questionaire, interview, article
 3. Ibrahim and Mohamed (2019) cite the fact that the majority of kindergartens still manage their data and information manually. Every piece of data or information is frequently recorded on paper and stored in a file. This approach has caused the management a great deal of issues, particularly when all the information is needed quickly.
 
 ### Problem Identification
-1. Current system often result in inefficient communication between teacher and parents and do not have a real-time communication
-2. Interaction challenges between all participants in the educational process
-3. Accessibility of student data and information is not secure and all record not well organized
+1. Interaction challenges between all participants in the educational process
+2. Accessibility of student data and information is not secure and all record not well organized
 
 ### Solution
 1. Develop the management system which teacher can update everything about student data and information through the app
 2. Parents and teacher can have real-time communication through the app
-3. Parents can pay the fees using online payment through the app
-4. All the kindergarten data information will sync properly and secure in this app
+3. All the kindergarten data information will sync properly and secure in this app
   
