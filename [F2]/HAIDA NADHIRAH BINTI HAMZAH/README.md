@@ -1,3 +1,3 @@
-# 2310-CSP600
+# Chapter 1 Introduction
 ## test
 ### test
