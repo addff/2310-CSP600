@@ -9,8 +9,9 @@ Basic facts either observation, questionnaire, interview, or article
 1. Mental health problems become challenging when individuals refuse treatment (Saboo, 2021). According to a survey, 30.3% of people with mental health problems never seek professional help. This is a major concern because untreated mental health problems can worsen and lead to serious consequences. 
 ![image](https://github.com/addff/2310-CSP600/assets/92868643/00a8e1f9-bc3a-43f9-95d6-4585e230460c)
 
-2. The patient forgets appointments and neglects to take medication as recommended(Saboo, 2021). Based on the survey conducted, 97% of the 33 respondents forgot their appointment. This is a significant percentage, and it suggests that there is a need for better systems for reminding people about their appointments.
-![image](https://github.com/addff/2310-CSP600/assets/92868643/54f03aef-548b-493c-a6e6-9c2919316d2a)
+2. The patient forgets appointments and neglects to take medication as recommended(Saboo, 2021). Based on the survey conducted, 69.7% of the 33 respondents forgot their appointment. This is a significant percentage, and it suggests that there is a need for better systems for reminding people about their appointments.
+![image](https://github.com/addff/2310-CSP600/assets/92868643/68d229fc-dcc2-436a-8fca-221e25f9c8ed)
+
 
 3. Requiring expensive procedures is a major challenge for people with mental health problems, as 20% of survey respondents reported financial constraints as their biggest challenge in managing or accessing mental health services.
 ![image](https://github.com/addff/2310-CSP600/assets/92868643/c32d5f28-d895-4bde-8934-9a1ac8aa3643)
