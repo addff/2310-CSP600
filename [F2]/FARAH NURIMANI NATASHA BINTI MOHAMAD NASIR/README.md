@@ -1,5 +1,20 @@
-# 2310-CSP600
+# Chapter 1 Introduction
+## Project Statement
 
-Attention to all students. I have been move your report folder (chap1, 2 & 3) into main folder name 'CSP600 Report'.
+### Issue
 
 
+### Evidence
+Basic fact either observation, questionaire, interview, article
+
+1. 
+2. 
+
+### Problem Identification
+1. 
+2. 
+3. 
+
+### Solution
+1. 
+2.
