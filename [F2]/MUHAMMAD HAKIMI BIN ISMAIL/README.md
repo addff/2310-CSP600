@@ -4,7 +4,7 @@
 
 ### Issue
 
-No safety application with efficient features
+No exisiting safety applications with efficient features to make sure users are safe
 
 ### Evidence
 
