@@ -14,9 +14,9 @@ This project will develop a mobile application that utilizes online mode to ensu
 
 ## Problem Statement
 ## Objective
-1.To design the kindergarten management system for Anje International Quranic Preschool to make a systematic and centralized system
-2.To develop a mobile application kindergarten management system for Anje International Quranic Preschool using authentication for securing data management.
-3.To evaluate the mobile application kindergarten management system for Anje International Quranic Preschool using user acceptance testing and functionality testing
+1. To design the kindergarten management system for Anje International Quranic Preschool to make a systematic and centralized system
+2. To develop a mobile application kindergarten management system for Anje International Quranic Preschool using authentication for securing data management.
+3. To evaluate the mobile application kindergarten management system for Anje International Quranic Preschool using user acceptance testing and functionality testing
 
 ## Project Scope
 ## Project Significant
