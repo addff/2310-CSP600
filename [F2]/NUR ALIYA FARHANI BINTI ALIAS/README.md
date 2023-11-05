@@ -1,13 +1,13 @@
 # CHAPTER 1
 ## PROJECT STATEMENT
 
-#### ISSUE
+### ISSUE
 	• Traditional penetration testing tools are often time-consuming and expensive to use.
 	• They can be complex to configure and use, requiring skilled personnel.
 	• They may not be able to identify all vulnerabilities, especially new or emerging ones.
 	• Organizations are increasingly moving to cloud-based infrastructures, which present new security challenges.
 
-#### EVIDENCE
+### EVIDENCE
 1. 86% of organizations have experienced a data breach in the past 12 years.
 	○ This statistic shows that data breaches are very common, and that no organization is immune. It also highlights the importance of having a robust security posture in place
 2. The average cost of a data breach in 2022 was $4.35 million.
@@ -17,7 +17,7 @@
 4. The use of AI in penetration testing is still in its early stages , but it has the potential to revolutionize the industry.
 	○ AI has the potential to make penetration testing more efficient, effective, and scalable. AI-powered tools can automate tasks, identify vulnerabilities more accurately, and reduce the cost and complexity of testing.
 	
-#### PROBLEM INDENTIFICATION
+### PROBLEM INDENTIFICATION
 The efficiency and scalability of traditional penetration testing techniques are inadequate to satisfy the demands of contemporary enterprises. They frequently cost a lot of money and take a long time, needing sophisticated equipment and trained workers. Furthermore, not all vulnerabilities—especially ones that are recent or emerging—may be found using conventional penetration testing methods.
 	• Time-consuming and expensive: 
        - Traditional penetration testing can be a very time-consuming and expensive process. This is because it requires skilled personnel to manually configure and use the tools, and to analyze the results of the tests.
@@ -27,7 +27,7 @@ The efficiency and scalability of traditional penetration testing techniques are
        - Traditional penetration testing tools may not be able to identify all vulnerabilities, especially new or emerging ones. This is because they are often based on known vulnerabilities and attack techniques.
 
 
-#### SOLUTION
+### SOLUTION
 • Use AI-powered cloud-based penetration testing tools.
 	○  AI-powered penetration testing tools can automate tasks, identify vulnerabilities more accurately, and reduce the cost and complexity of testing. Examples of AI-powered cloud-based penetration testing tools include:
     		§ Vulnerability scanners: 
