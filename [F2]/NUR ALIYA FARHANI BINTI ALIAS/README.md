@@ -7,7 +7,7 @@
 	• They may not be able to identify all vulnerabilities, especially new or emerging ones.
 	• Organizations are increasingly moving to cloud-based infrastructures, which present new security challenges.
 
-### EVIDENCE
+### EVIDENCE/BASIC FACTS
 	1. 86% of organizations have experienced a data breach in the past 12 years.
 		○ This statistic shows that data breaches are very common, and that no organization is immune. 
   		  It also highlights the importance of having a robust security posture in place
@@ -21,7 +21,7 @@
 		○ AI has the potential to make penetration testing more efficient, effective, and scalable. 
   		  AI-powered tools can automate tasks, identify vulnerabilities more accurately, and reduce the cost and complexity of testing.
 	
-### PROBLEM INDENTIFICATION
+### PROBLEM IDENTIFICATION
 	The efficiency and scalability of traditional penetration testing techniques are inadequate to satisfy the demands of contemporary enterprises. 
  	They frequently cost a lot of money and take a long time, needing sophisticated equipment and trained workers. 
   	Furthermore, not all vulnerabilities—especially ones that are recent or emerging—may be found using conventional penetration testing methods.
