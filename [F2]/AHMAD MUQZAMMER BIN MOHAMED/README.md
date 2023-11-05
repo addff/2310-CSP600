@@ -7,7 +7,10 @@ Motorists frequently lack immediate access to accurate and up-to-date informatio
 ## EVIDENCE
 1) A lot of people worry that their car will break down while they are travelling. They often have to go through this unpleasant situation.(Sharma et al., 2022)
 
-2)
+2)Finding mechanics nearest can be challenging regardless of where you travel.(A. Surekha et al., 2022)
+
+3)Unfortunately people sometimes have to deal with bad luck when their cars break down. They don't have much time to wait in queue for their turn at the service shop while their cars are being fixed.(Surekha et al., 2022)
+
 
 ## PROBLEM IDENTIFICATION
 
