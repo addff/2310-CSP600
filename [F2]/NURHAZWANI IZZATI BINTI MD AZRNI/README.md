@@ -16,13 +16,9 @@ Basic facts either observation, questionnaire, interview, or article
 ### Problem Identification
 Describe briefly the problem matter
 
-  1. Inefficiency arises from the manual enrollment procedure, which is characterized by its time-consuming nature and the resulting     prolonged wait periods experienced by students and parents at the administrator's counter. Additionally, a substantial amount of administrative work is necessary.
+ 1. Manual Learning Process: The current tuition management system relies on manual tasks, causing inconvenience for parents who have to visit in person, hindering communication. Students face difficulties enrolling in subjects, taking exams in hard copy, and accessing teaching materials. Teachers deal with paperwork, and attendance records can be unreliable. Educational administrators face resource-intensive processes and payment issues.
 
-  2. The absence of communication: The act of recording attendance without providing notification to parents can lead to a deficiency in transparency and communication among the tuition center, parents, and children. Parents may lack awareness regarding their child's attendance and academic achievement.
-
-  3. Payment Processing Challenges: The consolidation of payment handling at a single counter can result in inefficiencies, inaccuracies, and complications in the monitoring of payment transactions. Additionally, the implementation of this system may give rise to security problems pertaining to the management of physical currency.
-
-  4. Restricted Data Accessibility: Manual systems frequently exhibit a deficiency in facilitating convenient access and comprehensive analysis of data pertaining to student attendance and payments, hence impeding the ability to make well-informed decisions.
+2. Poor Tuition Fee Transparency: Tuition fee management lacks transparency due to manual, cash-based payments, making it hard to track finances accurately. This can lead to errors and affect trust in the system. It's crucial to address this issue and enhance fee management transparency.
 
 ### Solution
 your final product and importance
