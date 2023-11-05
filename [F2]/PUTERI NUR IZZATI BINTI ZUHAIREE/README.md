@@ -25,5 +25,5 @@ decisions about their nutrition and overall well-being. It is critical to step u
 ### Solution 
 1. Design and develop a mobile application for personalized recipe and meal planning assistant that provide a list of ranked food recipe for users to meet their 
    personalized needs and can be access by users anytime and anywhere.
-2. 
+2. The application will allow users to create personalized meal plans based on dietary preferences, ingredient availability, and portion sizes.
 
