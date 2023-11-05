@@ -9,17 +9,15 @@ Motorists frequently lack immediate access to accurate and up-to-date informatio
 
 2) Finding mechanics nearest can be challenging regardless of where you travel.(A. Surekha et al., 2022)
 
-3) 
-
 
 ## PROBLEM IDENTIFICATION
 1) Lack of User Friendly Emergency Communication
 2) Inefficient Location-Based Service Discovery
-3)  
 
 
 ## SOLUTION
-
+1) Develop a user-friendly and intuitive in-app communication feature that allows users to quickly and efficiently describe their vehicle issues.
+2) 
 
 
 
