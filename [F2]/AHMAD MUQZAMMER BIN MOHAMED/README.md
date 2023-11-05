@@ -17,7 +17,7 @@ Motorists frequently lack immediate access to accurate and up-to-date informatio
 
 ## SOLUTION
 1) Develop a user-friendly and intuitive in-app communication feature that allows users to quickly and efficiently describe their vehicle issues.
-2) 
+2) Allow users to share their real-time geolocation data within the app 
 
 
 
