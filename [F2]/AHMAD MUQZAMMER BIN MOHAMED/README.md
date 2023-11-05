@@ -9,7 +9,7 @@ Motorists frequently lack immediate access to accurate and up-to-date informatio
 
 2) Finding mechanics nearest can be challenging regardless of where you travel.(A. Surekha et al., 2022)
 
-3) They don't have much time to wait in queue for their turn at the service shop while their cars are being fixed.(Surekha et al., 2022)
+3) 
 
 
 ## PROBLEM IDENTIFICATION
