@@ -23,4 +23,7 @@ decisions about their nutrition and overall well-being. It is critical to step u
 2. Lack of a well-thought-out meal plan makes people to purchase ingredients without a clear purpose that go unused and end up as wasted food.
 
 ### Solution 
-1. 
+1. Design and develop a mobile application for personalized recipe and meal planning assistant that provide a list of ranked food recipe for users to meet their 
+   personalized needs and can be access by users anytime and anywhere.
+2. 
+
