@@ -7,3 +7,4 @@
 - Some area don't have internet connection
 ## SOLUTIONS
 - Create mobile application that provide offline maps and navigation
+- Create mobile application that provide weather forecasting
