@@ -14,7 +14,7 @@ Basic fact either observation, questionaire, interview, article
 
 ### Problem Identification
 1. No real-time notification to remind attendance
-2.Lack of monitoring features for students  to monitor absent
+2. Lack of monitoring features for students  to monitor absent
 
 ### Solution
 1. Develop real-time notification to remind attendance through mobile app
