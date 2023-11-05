@@ -6,4 +6,4 @@
 ## PROBLEM STATEMENT
 - Some area don't have internet connection
 ## SOLUTIONS
-- Providing application that provide offline maps and navigation
+- Create mobile application that provide offline maps and navigation
