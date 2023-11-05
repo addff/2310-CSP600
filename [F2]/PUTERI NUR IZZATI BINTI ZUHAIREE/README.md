@@ -8,6 +8,10 @@ People have to overcome a number of challenges because of their busy schedules i
 ### Evidence
 Basic facts either observation, questionnaire, interview or article. 
 
+The survey data shows varied meal-planning strategies among respondents, with 41.9% opting for manual meal planning. However, 45.2% lack structured meal planning, indicating a lack of awareness about its importance. Only 3.2% adhere to a set meal schedule, and 9.7% use planning apps or services. These statistics highlight the importance of meal planning education, as it assists individuals in managing essential dietary components such as fats, sugars, and carbohydrates, ensuring a well-balanced and nutritious diet. Promoting meal planning awareness and knowledge can assist individuals in making informed decisions about their nutrition and overall well-being. It is critical to step up efforts to raise awareness and understanding of the transformative impact of thoughtful meal planning on people's lives.
+
+
+
 ### Problem Identification
 1. The accelerated pace of life has led to increased unhealthy eating habits, such as skipping meals, snacking, and fast-food. These habits result in nutritional imbalances, lack of essential nutrients and 
    negatively impacting overall health.
