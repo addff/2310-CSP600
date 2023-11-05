@@ -7,7 +7,7 @@
 - Based on current travel application analysis, not a single one out of 16 application provide weather forecasting 
 ## PROBLEM STATEMENT
 - Some area don't have internet connection
-- Bad weather effect the planning activity
+- Bad weather affect the planning activity
 ## SOLUTIONS
 - Create mobile application that provide offline maps and navigation
 - Create mobile application that provide weather forecasting
