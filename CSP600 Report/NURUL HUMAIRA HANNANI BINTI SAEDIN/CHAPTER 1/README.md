@@ -12,16 +12,20 @@ Geolocation is the method and technology used to determine or estimate an object
   
 ### Problem Statement
 1. Difficult to compare different wedding organizers and their services.
+
 Clients may find it difficult to compare various wedding organizers and the services they provide for a variety of reasons. Nowadays, wedding organizers promote their services on a variety of online platforms, including Facebook, Instagram, and TikTok. This implies that to acquire information more about different organizers, clients must browse through a variety of websites, social media accounts, and online listings. Because of that, clients may find it challenging to centralize and standardize the data they gather from various sources due to the wide array of platforms. Direct comparisons can be difficult because each platform may display information in a somewhat different format. However, clients are also faced with a dilemma because of this abundance of choices. Selecting the venue for the wedding is a difficult task because there are a lot of things to take into consideration, such as the expected bride and groom's schedule and budget (Wibowo & Priandika, 2021). Therefore, to discover the organizer that best suits their demands and budget, they will need to put in a lot of time and effort exploring and browsing through several platforms. Almost three-quarters of those responding to the survey (73.3%) agreed with the statement. It indicates that some people might find it challenging to efficiently navigate different online platforms to discover more about various wedding organizers, which would make it difficult for them to make wise comparisons.
 
-A filtering and sorting system could be put in place to greatly help with this problem. Dream Wedding will allow users to refine their search using key factors consisting of location, services provided, price range, and user ratings, such a system would enable users to speed up their search. Dream Wedding mobile application would also improve this system's accessibility and convenience. Using a user-friendly interface, this application could act as a centralized platform where different wedding organizers can list all their services, packages, and prices. This would allow clients to compare and select the ideal wedding organizer based on their requirements and preferences. These alternatives would make comparing vendors easier while also giving people looking for wedding organizing assistance a more effective and user-friendly experience.
+A filtering and sorting system could be put in place to greatly help with this problem. 
+Dream Wedding will allow users to refine their search using key factors consisting of location, services provided, price range, and user ratings, such a system would enable users to speed up their search. Dream Wedding mobile application would also improve this system's accessibility and convenience. Using a user-friendly interface, this application could act as a centralized platform where different wedding organizers can list all their services, packages, and prices. This would allow clients to compare and select the ideal wedding organizer based on their requirements and preferences. These alternatives would make comparing vendors easier while also giving people looking for wedding organizing assistance a more effective and user-friendly experience.
    
 3. The difficulty in discerning dates that have already been reserved by other clients.
+
 The problem is that it can be hard to find dates that other clients have already reserved. To make a reservation, potential clients must presently come in person to the organizer's office. But once they get there, they frequently discover that someone else already secured the desired date, which wastes their time. The fact that many clients work during the day as well as at night and have hectic schedules makes it difficult for them to physically visit the office, which adds to the inconvenience. Consequently, the existing booking process wastes time and burdens clients because they can't simply check the availability of dates without going to the organizer's office. This requires the development of a more accessible and efficient booking system. According to the survey, around 80 percent of those who took the survey agreed that it is difficult for them to find out if certain dates have already been reserved by someone else. This challenge is caused by the requirement that reservations be made in person at the organizer's office.
 
 It becomes essential to implement a digital solution in regards to the issues raised in the survey. Potential clients can quickly check the dates online without having to physically visit each organizer's office by creating an availability calendar that shows both booked and available dates. Moreover, Dream Wedding incorporating an easy-to-use booking system with options for selecting a date and time would greatly improve the process of booking. Customers would benefit from increased transparency as well as the ability to make well-informed booking decisions from the comfort of their homes or places of business, which would accommodate their busy schedules.
 
 4. Experiencing difficulties in contacting wedding organizers through existing online platforms.
+
 Having trouble getting in touch with wedding planners via the variety of online digital platforms that are currently in use refers to the problems clients encounter when attempting to get in touch with wedding organizing experts. These problems can include unclear communication channels, uncooperative organizers, delayed answers, and technical difficulties with the platforms. Clients who are looking for fast and effective communication to talk about their wedding decisions, ask questions, or get clarification on specifics about the services provided may become frustrated as a result of these challenges. Essentially, the issue revolves on how difficult it is for clients to communicate with wedding planners online due to the ineffectiveness or inefficiency of the online interactions methods offered by these platforms. According to the survey, 54.7% of those who took the survey acknowledged that contacting wedding organizers via current online medium shows difficulties. This percentage shows that a significant number of the respondents had trouble communicating. These difficulties could manifest as unclear communication channels, unresponsiveness, or delayed responses.
 
 The implementation of a robust chat system is considered important to solving the challenges raised by the survey. Through the integration of a smooth and effective chat interface within the mobile application, clients are able to interact with wedding organizers directly, free from any delays or unclear platforms. Real-time communication is ensured by this solution, giving customers the ability to discuss specifics, ask questions, and get immediate answers which will greatly enhance their experience. A feature like this increases customer satisfaction through enabling direct communication and creating an easy-to-use open medium. Ultimately, implementation of this effective chat system would minimize the distance between clients and the wedding organizers, offering an user-friendly platform for efficient and immediate communication, thus resolving the issues with the current online platforms.
@@ -32,6 +36,7 @@ The implementation of a robust chat system is considered important to solving th
    
 ### Scope
 1.	User
+
 Dream Wedding mobile application is targeted for professional wedding organizers, and couples planning the wedding are the target audience.
 
 2.	Data
@@ -41,13 +46,16 @@ b) www.bridestory.com
 c) www.eventistry.my
 
 3.	Mode
+
 Dream Wedding mobile application mode is online. In this mode, users must have an internet connection in order to gain access to the application's features, including browsing through wedding planning stuff, checking the availability of specific dates, reading the organizers' profiles, and contacting vendors or other organizers. The online mode makes the application a comprehensive and accessible platform for people looking for services related to wedding planning since it enables real-time changes, dynamic information, and smooth interaction with the database of the application and servers.
 
 
 4.	Technology
+
 Dream Wedding mobile application uses geolocation services. The application utilizes geolocation technologies to locate the user's exact location instantaneously. With the usage of this information, the application can provide location-based services, such as locating wedding venues, photographers, florists, as well as other necessary vendors in the user's current location.
 
 5.	Functionality
+
 The Dream Wedding mobile application boasts a comprehensive array of functionalities to enhance the entire wedding planning experience. From the outset, user registration and authentication system ensures a hassle-free account creation process, granting consumers access to a diverse selection of wedding planners, simplifying the task of finding and comparing options.
 
 One standout feature is a vendor listings, which empower wedding service providers to showcase their services while specifying their precise locations. This not only streamlines the search for a variety of services, such as photographers and caterers but also facilitates the location-based discovery of suitable vendors.
@@ -58,10 +66,13 @@ For financial transactions, this platform offers a variety of payment methods an
 
 ### Significance
 3.	Enabling users to easily compare different wedding organizers and their services.
+
 Dream Wedding serves as a centralized hub, streamlining the process of finding diverse wedding organizers and vendors for users. It empowers couples with the ability to easily compare a wide range of wedding services, ensuring they can make well-informed decisions for their special day. With our geolocation-based feature, users can effortlessly identify wedding organizers in close proximity to their location, enhancing convenience and helping them discover the most suitable options for their wedding needs. This centralized and location-aware platform simplifies the journey of selecting wedding services, making the entire planning process not only efficient but also enjoyable, ultimately contributing to a memorable and stress-free wedding experience.
 
 2.	Allowing clients to quickly identify the available date.
+
 Dream Wedding simplify the booking process for clients by enabling them to swiftly identify available dates without the need to visit the wedding organizer's office physically. This seamless system allows users to reserve their desired dates efficiently, preventing them from being fully booked before they can secure their spot. Clients no longer need to visit multiple wedding organizer locations without knowing which dates are still available. Instead, they can conveniently navigate our platform, ensuring that the date they desire is open, all from the comfort of their own home. This efficient approach not only saves time but also provides clients with the assurance that their chosen date is secured hassle-free.
 
 3. Easily connecting with wedding organizers within the platform.
+
 Users can effortlessly communicate with wedding organizers anytime within the platform. Previously, organizers often found themselves overwhelmed when numerous clients reached out to them personally. However, with this platform, organizers can respond to client messages in an organized manner. This streamlined communication process ensures that users receive timely and efficient responses, allowing them to reply promptly and easily. The platform's structured messaging system not only benefits clients by enabling swift interactions but also supports wedding organizers in managing their client inquiries effectively, enhancing overall communication experiences for all parties involved.
