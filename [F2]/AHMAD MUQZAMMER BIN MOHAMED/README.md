@@ -9,7 +9,7 @@ Motorists frequently lack immediate access to accurate and up-to-date informatio
 
 2) Finding mechanics nearest can be challenging regardless of where you travel.(A. Surekha et al., 2022)
 
-3) It is common for businesses to take advantage of customers in the name of service. The issue is replacing original parts with old ones.Gomathy, C K. (2022).
+3) It is common for businesses to take advantage of customers in the name of service. The issue is replacing original parts with old ones. (Gomathy,2022).
 
 
 ## PROBLEM IDENTIFICATION
