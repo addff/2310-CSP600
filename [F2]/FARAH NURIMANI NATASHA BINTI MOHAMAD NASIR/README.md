@@ -2,7 +2,7 @@
 ## Project Statement
 
 ### Issue
-Nowadays, most running apps overlook the importance of weather and running route selection in runners overall performance and well being. This results in problems for runners to locate local running routes, no personalization for running route recommendation, and lack of weather data availability.
+Nowadays, most running apps overlook the importance of weather and running route selection and its impact in runners overall performance and well being. This results in problems for runners to locate local running routes, no personalization for running route recommendation, and lack of weather data availability.
 
 ### Evidence
 Basic fact either observation, questionaire, interview, article
