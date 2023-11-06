@@ -12,7 +12,7 @@ Motorists frequently lack immediate access to accurate and up-to-date informatio
 
 ## PROBLEM IDENTIFICATION
 1) Lack of User Friendly Emergency Communication
-2) Inefficient Location-Based Service Discovery
+2) Inefficient Location-Based Service 
 
 
 ## SOLUTION
