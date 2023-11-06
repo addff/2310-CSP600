@@ -13,15 +13,13 @@ Motorists frequently lack immediate access to accurate and up-to-date informatio
 
 
 ## PROBLEM IDENTIFICATION
-1) Lack of User Friendly Emergency Communication
-2) Inefficient Location-Based Service
-3) Lack of Trust in Service Quality
+1) Inefficient Location-Based Service
+2) Lack of Trust in Service Quality
 
 
 ## SOLUTION
-1) Develop a user-friendly and intuitive in-app communication feature that allows users to quickly and efficiently describe their vehicle issues.
-2) Allow users to share their real-time geolocation data within the app
-3) Users can rate and review the quality of the services they receive.
+1) Allow users to share their real-time geolocation data within the app
+2) Users can rate and review the quality of the services they receive.
 
 
 
