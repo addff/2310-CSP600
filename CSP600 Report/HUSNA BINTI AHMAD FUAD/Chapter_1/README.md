@@ -17,6 +17,8 @@ Learning about the user behavior throughout their pattern of using an applicatio
 
 ### 1.2	Problem Statement
 
+Currently, artisans and craftspeople are actively leveraging social media platforms like Facebook, Instagram, and TikTok to connect with potential customers and showcase their creations. While this approach has its merits, it also comes with significant drawbacks, such as challenges in locating local artisans, limited discoverability, and a lack of dedicated technology to facilitate seamless artist-client interactions.
+
 1.2.1	Lack of a centralized platform to discover local artisans.
 
 A handcrafter usually will create an account on as many platforms as they can to promote their handicraft. This is the best way to get a large amount of audience. Online platforms have provided artists with a means to exhibit and market their artwork to a worldwide audience, opening up fresh avenues for income and broadening their outreach (Shirbhate et al., 2023). Despite all the benefits, crafters might face challenges in the process of creating content that can attract audiences. Some artisans who prioritize the quality of handicrafts may lack technology proficiency. Artisans who create handcrafted items frequently encounter challenges in marketing their products online, primarily because they lack the necessary technical skills and resources (Shirbhate et al., 2023).  Hence, it is best for an application to offer various features that can ease the process of content posting users and help their content stand out and capture the audience's attention.
@@ -31,7 +33,7 @@ People who are interested in learning handcraft could seek guidance from nearby 
 
 Locating the nearby local artisans can offer a significant benefit for individuals. Users can seek advice and help from these artisans to gain a deeper understanding of handcrafting including details like the history or process of making it. Besides, from a commercial perspective, users can verify the quality of the handcrafted products they wish to purchase by visiting the local artisans’ store in person. These interactions between the user and the local artisans could foster community building, potentially leading to craft events or workshops being held. These events provide opportunities for neighbors to connect, exchange ideas, and enjoy themselves, contributing to a more inclusive and vibrant community (Stevenson, 2020).
  
-To address the difficulty in locating these nearby local artisans, this application will show their location to the users by implementing geolocation. Therefore, users can meet and chat with each other to exchange ideas or engage in buying and selling.
+To address the difficulty in locating these nearby local artisans, the Live KrafConnect application will show their location to the users by implementing geolocation. Therefore, users can meet and chat with each other to exchange ideas or engage in buying and selling.
 
 1.2.3	Challenges in finding local artisans capable of crafting customized products that align with customer designs.
 
@@ -39,7 +41,7 @@ Everyone has their own interests and tastes. If the product does not meet their 
 
 Providing custom services is a common practice in commerce. The concept of mass customization, which involves offering customized products at pricing comparable to mass production, has been a practiced strategy in commerce for more than two decades (Hara, 2019, as cited in Anderson, 1997; Pine, 1997). Customers can make requests based on their desired design. There are levels in mastering a skill such as beginner, intermediate and advanced. A beginner might have limitations in creating a handcrafted item. Since they are still learning, they are not experts in all required techniques yet. However, intermediate and advanced levels individuals might be able to create their own designs and something more complex since they have many experiences. The challenge lies in locating individuals who have expert skills in making customized designs of handicrafts, which will, in turn, attract users to buy handcrafted items from them.
 
-Based on user recommendations on handicrafts type, the application addresses this challenge by identifying the location of local artisans nearby using geolocation and rule-based, who offer custom design services for handicrafts. Thus, users will be able to purchase the designs of handcrafted items they genuinely adore.
+Based on user recommendations on handicrafts type, the Live KrafConnect application addresses this challenge by identifying the location of local artisans nearby using geolocation and content-filtering, who offer custom design services for handicrafts. Thus, users will be able to purchase the designs of handcrafted items they genuinely adore.
 
 ### 1.3	Objective
 
