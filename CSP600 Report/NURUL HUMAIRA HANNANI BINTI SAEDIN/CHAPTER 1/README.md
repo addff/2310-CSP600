@@ -11,7 +11,7 @@ A mobile application is an application created especially for mobile devices, su
 Geolocation is the method and technology used to determine or estimate an object's actual geographic location, such as that of a computer, smartphone, or other internet-connected device. It uses a variety of technologies to pinpoint the exact latitude and longitude coordinates of the device, including Wi-Fi, cellular networks, IP addresses, and the GPS (Global Positioning System). Numerous services and applications use geolocation extensively to enable location-based features including local search, mapping, navigation, and personalized content delivery (Zheng, Xie, Ma, & Ma, 2019). For instance, apps and services can offer personalised experiences, including location-specific recommendations, local search results, and targeted advertisements, by using geolocation. Being an essential part of the current digital technologies, it has transformed businesses by enabling location-based marketing strategies, improving user experiences, and promoting the development of location-aware applications that adapt dynamically to users' changes in locations.
   
 ### 1.2 Problem Statement
-Based on the survey, 
+Based on the survey findings, three significant problem statements have emerged concerning wedding organizers.
 
 1.2.1 Difficult to compare different wedding organizers and their services.
 
