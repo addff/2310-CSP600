@@ -40,9 +40,9 @@ Educational administrators encounter a variety of difficulties with student enro
 The lack of transparency in the management of tuition fees, particularly in the payment process for subject enrollment, is one of the most significant problems that arise within the framework of the tuition management system. At the moment, stakeholder Pusat Tuisyen Balbir has mentioned that the majority of payments for participant enrollment are made in cash at the counter, and the associated receipts and payment methods are handled manually. This technique, which is both manual and cash-based, not only results in inefficiencies but also makes it difficult to maintain openness in regard to the financial aspects of tuition administration. It may create difficulties in precisely tracking payments and keeping a clear record of financial activities, both of which are vital for educational institutions as well as the parents or guardians of students. According to research by  Azizul  et al. (2022), this lack of transparency in the handling of tuition fees has the potential to result in errors and disparities, which will have an impact on both the general efficiency of the system and the trust that people have in it. As a consequence of this, there is an urgent requirement to solve this problem and improve the transparency of the management of tuition fees.
 
 ### 1.3 Objectives
-#### a. To develop an Enhanced Tuition Management system using Progressive Web App (PWA) technology and a Payment Gateway API to automate and streamline administrative operations in educational institutions
+a. To develop an Enhanced Tuition Management system using Progressive Web App (PWA) technology and a Payment Gateway API to automate and streamline administrative operations in educational institutions
 
-#### b. To test the effectiveness of the Enhanced Tuition Management system in addressing problems, including attendance monitoring, subject registration, assessment management, and tuition payment handling
+b. To test the effectiveness of the Enhanced Tuition Management system in addressing problems, including attendance monitoring, subject registration, assessment management, and tuition payment handling
 
 
 
