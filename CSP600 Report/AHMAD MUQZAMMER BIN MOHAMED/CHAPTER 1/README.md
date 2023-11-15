@@ -13,10 +13,15 @@ The goal is to make an app called RoadGuard that is an innovative solution desig
 ## 1.2	Problem Statement 
 ## 1.2.1	Inefficient Location-Based Service
 There are many road situations in Malaysia that do not ensure the safety of the driver. People driving cars or someone riding a bike may encounter unpredictable situations when they hit a sharp object on the road that makes their tire punctured. Vehicle breakdowns are unexpected events in which a vehicle fails while driving on the road and has to stop (Chand et al., 2020).
+
 There is situation, when drivers experience a car breakdown in an unfamiliar area, it can be tough. They might not know the local roads safe spot to stop. Without the implement of location service, it might be hard to communicate to the workshop to pinpoint their location. Finding mechanics nearest can be challenging regardless of where you travel. (A. Surekha et al., 2022)
+
 ## 1.2.2	Lack of Trust in Service Quality
+
 As sensible car owners know, having the number of a reliable mechanic on hand is very important. Unexpected things can happen on the road at any time, like engine problems, breaks, or flat tires. Being ready can make all the difference. To ensure the safety of drivers and passengers, a trustworthy mechanic can give expert advice, quick help, and effective solutions. Also, having a reliable technician on hand can cut down on the time and stress that come with these situations, letting drivers get back on the road with confidence. You might feel more at ease knowing that you can rely on a trustworthy roadside help service, particularly when you're traveling far distances or to a new place (Arpits, 2023).
+
 While it's helpful to have the contact information of a reliable mechanic on hand when you're in town, it can be a problem when you're moving. This limitation in terms of reliability can make things more difficult, which is why it's important to know the rating and feedback from previous people who have already received the services before you contact the workshop. It is common for businesses to take advantage of customers in the name of service. The issue is replacing original parts with old ones. (Gomathy,2022).
+
 The solution to this problem is by developing an app called RoadGuard that uses geolocation to overcome it. RoadGuard can pinpoint where the breakdown car is located and provide trustworthy mechanics that have registered in the application to ensure the reliability of the car owner. It also provides transparent pricing information and even the option for users to rate and review the quality of the services they receive.
 
 ## 1.3	Project objective
