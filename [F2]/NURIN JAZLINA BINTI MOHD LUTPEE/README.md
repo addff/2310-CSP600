@@ -19,7 +19,7 @@ Basic facts either observation, questionnaire, interview, or article
 
 ### Problem Identification
 Describe briefly the problem matter
-1. People at risk of developing mental health problems often refuse to seek treatment due to various obstacles. For example, the individual was too shy and scared because people may judge them or might think they are too dramatic.
+1. People at risk of developing mental health problems often refuse to seek treatment due to various obstacles. This refusal often stems from a lack of awareness on behalf of the mental patient themselves, who may remain oblivious to their condition. If they have the symptoms and fail to seek assistance promptly, their mental health conditions will deteriorate and potentially leading to severe consequences.
 2. Currently people busy with work tend to forget to attend appointments and track their medication. The individual has booked the appointment but is busy with work etc, then they forgot their appointment.
 3. Costly and time-consuming procedures will lead to risks the individuals with mental health issues. The rural residential might not have the nearest clinic or counselling centre. The cost to go to the nearest clinic or counselling centre might be high and will take time for individuals to queue to book an appointment.
 
