@@ -15,6 +15,7 @@ Basic fact either observation, questionaire, interview, article
 ### Problem Identification
 1. Interaction challenges between all participants in the educational process
 2. Accessibility of student data and information is not secure and all record not well organized
+3. Attendance tracker for students is not effective 
 
 ### Solution
 1. Develop the management system which teacher can update everything about student data and information through the app
