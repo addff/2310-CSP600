@@ -7,7 +7,7 @@
 - Based on current travel application analysis, only two out of 16 application provide weather forecasting 
 ## PROBLEM STATEMENT
 - Some area don't have internet connection
-- Lack of real-time update on weather
+- Weather information not being updated in real-time
 ## SOLUTIONS
 - Create mobile application that provide offline maps and navigation
 - Create mobile application that provide weather forecasting
