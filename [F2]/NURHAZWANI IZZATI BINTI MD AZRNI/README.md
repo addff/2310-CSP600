@@ -8,9 +8,8 @@ Many tuition centers currently employ a manual tuition management system. This t
 ### Evidence
 Basic facts either observation, questionnaire, interview, or article
 
-  1. A look at the current fee management systems shows that they have problems with being inefficient, which means that teachers often          have trouble keeping accurate records of student attendance (Kamaroszaman,2022).
-  2. Administrative functions related to tuition administration and education       
-     arerarely automated (Mustapha,2022).
+  1.  the current system for the management of tuition in the field of education faces a number of difficulties that affect a wide range of user communities (Kamaroszaman,2022).
+  2. the educational process becomes inefficient when exams and quizzes are still administered in hard copy (Mustapha,2022).
   3. Educational institutions lack transparency and accountability in tuition charge administration. This issue is especially important as       educational institutions move from cash-based payments to internet purchases, which are convenient but present challenges(Rahimi,2022).
 
 ### Problem Identification
