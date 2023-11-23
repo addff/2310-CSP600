@@ -13,11 +13,12 @@ Basic fact either observation, questionaire, interview, article
 ### Problem Identification
 1. Lack of cat health and wellness application tracker
 2. Difficult to find nearest veterinar
-3. Hard to predict cat health issues in advance
+3. Hard to preliminary detect cat health issues in advance
 
 ### Solution
 1. Develop the cat health and wellness tracker app
 2. Develop app that provide location to nearest veterinar
+3. Develop app that can detect cat health issue in advance
    
 
 
