@@ -1,7 +1,7 @@
 # Chapter 1 Introduction
 ## Project Statement
 ### Issue
-Nowadays, wedding organizers promote their services on a variety of online platforms, including Facebook, Instagram, and TikTok because there is no existing mobile application for wedding organizers that allows users to browse all available options in one place. Therefore, clients find it challenging to locate wedding organizers in their specific area.
+Nowadays, wedding organizers promote their services on a variety of online platforms, including Facebook, Instagram, and TikTok because there is not many existing mobile application for wedding organizers that allows users to browse all available options in one place. Therefore, clients find it challenging to locate wedding organizers in their specific area.
 
 ### Evidence
 1. Regarding the difficulty of comparing wedding planners and their services, almost three-quarters of those responding to the survey (73.3%) agreed with the statement. This agreement has likely been impacted by the fact that not everyone has highly developed internet information-gathering skills. It indicates that some people might find it challenging to efficiently navigate different online platforms in order to discover more about various wedding organizers, which would make it difficult for them to make wise comparisons.
