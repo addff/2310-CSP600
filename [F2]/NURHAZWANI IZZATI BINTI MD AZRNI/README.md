@@ -22,9 +22,9 @@ Describe briefly the problem matter
 ### Solution
 your final product and importance
 
-  1. Develop or implement a digital tuition management system that enables online topic enrollment, attendance notification, and payment processing.
-  2. Develop an online portal or app through which students and parents can enroll in classes remotely. In-person enrollment at the administrator's counter is no longer required.
-  3. Develop an online payment gateway to allow for simple and safe payments. Credit cards, online banking, and digital wallets are examples of payment methods. Payments can be made using the device of the student or parent's choice.
+  1. To develop an Enhanced Tuition Management system using Progressive Web App (PWA) technology and a Payment Gateway API to automate and streamline administrative operations in educational institutions
+2. To test the effectiveness of the Enhanced Tuition Management system in addressing problems, including attendance monitoring, subject registration, assessment management, and tuition payment handling
+
 
 
 
