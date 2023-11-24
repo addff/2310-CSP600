@@ -13,9 +13,11 @@ In recent years, there has been a growing demand for accessible and effective sp
 
 ### Problems
 1.Athletes and coaches may struggle with coordinating schedules
+
 2.Athletes have problems searching for a coach based on their preferences.
 
 ### Solution
 1.The platform will include user profiles for athletes and coaches, allowing them to connect based on their specific sports interests and goals. 
+
 2.The system will help coaches schedule and conduct real-time video coaching sessions, analyze athletes' performance videos, and design customized training plans 
 
