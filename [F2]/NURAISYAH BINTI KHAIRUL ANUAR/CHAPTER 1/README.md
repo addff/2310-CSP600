@@ -6,6 +6,7 @@
 
 1. Lack of awareness of machine availability 
 2. Lack of control over laundry time
+3. Safety concern on unattended belongings in public area
 
 ### Evidence
 
