@@ -7,8 +7,15 @@ Nowadays, there are so many mobile apps related to pets. However, there are too 
 ### Evidence
 Basic fact either observation, questionaire, interview, article
 
-1. According to observation,no mobile application specific to cats only. Most applications offer features for pets.
-2. No specific apps that offer location for veterinar
+1. According to questionaire, 48.6%  did not aware of any existing cat health and wellness trackers mobile application and 37% did not sure about it.
+   ![Screenshot 2023-11-27 233316](https://github.com/addff/2310-CSP600/assets/148832686/60344eb7-6914-4952-881a-5a966fbb8d13)
+
+2. From the questionaire, 62.9% cat lover has challenges in finding the nearest veterinarian for their cat's health concern
+   ![Screenshot 2023-11-27 232946](https://github.com/addff/2310-CSP600/assets/148832686/1e555fb1-41d9-438b-a9f2-7d95296ed02f)
+
+3. According to questionaire, 91.4% experienced difficulties in identifying early symptoms of health issues in their cat
+   
+![Screenshot 2023-11-27 232505](https://github.com/addff/2310-CSP600/assets/148832686/b0440cc8-23ff-4e2f-9bb3-8b60aa57b7dc)
 
 ### Problem Identification
 1. Lack of cat health and wellness application tracker
