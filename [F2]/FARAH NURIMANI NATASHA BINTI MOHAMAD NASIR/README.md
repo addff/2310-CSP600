@@ -12,6 +12,7 @@ Basic fact either observation, questionaire, interview, article
 3. According to a study by Karahanoglu et al. (2021), regardless how skilled a runner is, whether they are beginners or professional runners, they value having access to personalized guide, data, and feedback to help them assess their performance and personal targets.
 4. According to the questionnaire, runners usually plan their running route by themselves because they find it difficult to discover new running routes.
 5. According to the questionnaire, only 15.2% use running apps for suggestions on running routes.
+<img width="516" alt="Qs2" src="https://github.com/addff/2310-CSP600/assets/148828314/f4667a7f-b145-4161-925e-56cb366a23a6">
 
 ### Problem Identification
 1. Most online platforms do not offer enough personalization and flexibility in running plans provided.
