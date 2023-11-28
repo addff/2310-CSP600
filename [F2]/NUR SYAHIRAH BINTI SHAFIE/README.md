@@ -19,5 +19,4 @@ In recent years, there has been a growing demand for accessible and effective sp
 ### Solution
 1.The platform will include user profiles for athletes and coaches, allowing them to connect based on their specific sports interests and goals. 
 
-2.The system will help coaches schedule and conduct real-time video coaching sessions, analyze athletes' performance videos, and design customized training plans 
-
+2.The system will help coaches schedule and conduct real-time video coaching sessions.
