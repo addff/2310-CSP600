@@ -10,4 +10,4 @@
 - Weather information not being updated in real-time
 ## SOLUTIONS
 - Create mobile application that provide offline maps and navigation
-- Create mobile application that provide weather forecasting
+- Create mobile application that provide real-time weather forecasting
