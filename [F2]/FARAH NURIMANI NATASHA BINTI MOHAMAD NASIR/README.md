@@ -21,12 +21,12 @@ Basic fact either observation, questionaire, interview, article
 
 7. According to the questionnaire, runners usually plan their running route by themselves because they find it difficult to discover new running routes.
 
-<img width="516" alt="Qs2" src="https://github.com/addff/2310-CSP600/assets/148828314/f4667a7f-b145-4161-925e-56cb366a23a6">
+    <img width="516" alt="Qs2" src="https://github.com/addff/2310-CSP600/assets/148828314/f4667a7f-b145-4161-925e-56cb366a23a6">
 
 
 5. According to the questionnaire, only 15.2% use running apps for suggestions on running routes.
 
-<img width="517" alt="Qs1" src="https://github.com/addff/2310-CSP600/assets/148828314/7042d20c-c492-4379-a3f5-e1676d6b269d">
+    <img width="517" alt="Qs1" src="https://github.com/addff/2310-CSP600/assets/148828314/7042d20c-c492-4379-a3f5-e1676d6b269d">
 
 
 ### Problem Identification
