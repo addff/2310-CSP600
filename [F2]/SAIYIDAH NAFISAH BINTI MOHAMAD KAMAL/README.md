@@ -21,4 +21,5 @@ Basic fact either observation, questionaire, interview, article
 1. Develop the management system which teacher can update everything about student data and information through the app
 2. Parents and teacher can have real-time communication through the app
 3. All the kindergarten data information will sync properly and secure in this app
+4. Develop an attendance tracker system with features allowing parents to inform teachers through the PreschoolPulse application if their children will not be attending preschool 
   
